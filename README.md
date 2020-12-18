@@ -11,9 +11,8 @@ Having a VPN is **essential** to keep your location and identity hidden.
 An example of this with https://www.facebook.com/
 
 * First, you type in a domain name that is a nickname for that sites IP address.
-
- 			* This makes it easier than using a ton of numbers. 
-			* Every device using the internet has an IP address specifying the location and identity of that certain device including your computer. 
+	* This makes it easier than using a ton of numbers. 
+	* Every device using the internet has an IP address specifying the location and identity of that certain device including your computer. 
 
 When looking up a website you request data from that server and in response, they send you back what you requested. However, this action also comes with you sending this server your information request including information about you and your computer. 
 
